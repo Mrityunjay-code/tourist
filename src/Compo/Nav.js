@@ -26,7 +26,7 @@ function Nav() {
         </nav>
  
         <div class="title">
-            <h1>FIRSTFLIGHT TRAVELS</h1>
+            <h1>INDIA TRAVELS</h1>
             <p>Plan your trip with us and travel around the world with the most affordable packages!</p>
             <a href="/Reg" class="button">Register Now!</a>
         </div>
